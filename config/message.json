@@ -1,0 +1,20 @@
+{
+    "USER":{
+        "EMAIL_EXISTS":"Email alredy exists",
+        "USER_REGISTER":"User register successfully",
+        "INVALID_CREDENCIAL":"User invalid credencial",
+        "INVALID_PASSWORD":"Invalid password",
+        "LOGIN_SUCCESS":"Login successfully"
+    },
+    "TASK":{
+        "CREATE":"Task created successfully",
+        "TITLE_EXISTS":"Title alredy exists",
+        "GET_TASKS":"Get all task",
+        "TASK_NOT_FOUND":"Task not found",
+        "TASK_UPDATE":"Task updated successfully",
+        "DELETE_TASK":"Task deleted successfully"
+    },
+    "ERROR":{
+        "SERVER":"Internal server error"
+    }
+}
